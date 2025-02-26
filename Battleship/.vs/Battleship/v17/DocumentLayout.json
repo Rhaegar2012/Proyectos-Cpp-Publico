@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Fundamentals Training\\Cplusplus-ProjectRepository\\C\u002B\u002B Games\\Battleship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF810FB-F293-4445-A357-FF77989DE4C9}|Battleship\\Battleship.vcxproj|C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Fundamentals Training\\Cplusplus-ProjectRepository\\C\u002B\u002B Games\\Battleship\\Battleship\\Battleship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EF810FB-F293-4445-A357-FF77989DE4C9}|Battleship\\Battleship.vcxproj|solutionrelative:Battleship\\Battleship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Battleship.cpp",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Fundamentals Training\\Cplusplus-ProjectRepository\\C\u002B\u002B Games\\Battleship\\Battleship\\Battleship.cpp",
+              "RelativeDocumentMoniker": "Battleship\\Battleship.cpp",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Fundamentals Training\\Cplusplus-ProjectRepository\\C\u002B\u002B Games\\Battleship\\Battleship\\Battleship.cpp",
+              "RelativeToolTip": "Battleship\\Battleship.cpp",
+              "ViewState": "AgIAAHkCAAAAAAAAAAD4v4cCAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T14:27:53.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Fundamentals Training\\Cplusplus-ProjectRepository\\C\u002B\u002B Games\\Battleship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF810FB-F293-4445-A357-FF77989DE4C9}|Battleship\\Battleship.vcxproj|C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Fundamentals Training\\Cplusplus-ProjectRepository\\C\u002B\u002B Games\\Battleship\\Battleship\\Battleship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EF810FB-F293-4445-A357-FF77989DE4C9}|Battleship\\Battleship.vcxproj|solutionrelative:Battleship\\Battleship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\map||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\throw_bad_alloc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\string||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF810FB-F293-4445-A357-FF77989DE4C9}|Battleship\\Battleship.vcxproj|C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Fundamentals Training\\Cplusplus-ProjectRepository\\C\u002B\u002B Games\\Battleship\\Battleship\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EF810FB-F293-4445-A357-FF77989DE4C9}|Battleship\\Battleship.vcxproj|solutionrelative:Battleship\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF810FB-F293-4445-A357-FF77989DE4C9}|Battleship\\Battleship.vcxproj|C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Fundamentals Training\\Cplusplus-ProjectRepository\\C\u002B\u002B Games\\Battleship\\Battleship\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EF810FB-F293-4445-A357-FF77989DE4C9}|Battleship\\Battleship.vcxproj|solutionrelative:Battleship\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "throw_bad_alloc.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAewCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T03:43:27.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "ViewState": "AgIAANwIAAAAAAAAAAD4v88IAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-26T03:14:30.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "map",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\map",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\map",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\map",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\map",
+              "ViewState": "AgIAAFoBAAAAAAAAAAD4v2gBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-26T02:48:30.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "string",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\string",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\string",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\string",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\string",
+              "ViewState": "AgIAAFEAAAAAAAAAAAD4v18AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-18T00:34:33.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utils.cpp",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Fundamentals Training\\Cplusplus-ProjectRepository\\C\u002B\u002B Games\\Battleship\\Battleship\\Utils.cpp",
+              "RelativeDocumentMoniker": "Battleship\\Utils.cpp",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Fundamentals Training\\Cplusplus-ProjectRepository\\C\u002B\u002B Games\\Battleship\\Battleship\\Utils.cpp",
+              "RelativeToolTip": "Battleship\\Utils.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T14:30:28.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Battleship.cpp",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Fundamentals Training\\Cplusplus-ProjectRepository\\C\u002B\u002B Games\\Battleship\\Battleship\\Battleship.cpp",
+              "RelativeDocumentMoniker": "Battleship\\Battleship.cpp",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Fundamentals Training\\Cplusplus-ProjectRepository\\C\u002B\u002B Games\\Battleship\\Battleship\\Battleship.cpp",
+              "RelativeToolTip": "Battleship\\Battleship.cpp",
+              "ViewState": "AgIAAHkCAAAAAAAAAAD4v4cCAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T14:27:53.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Utils.h",
+              "DocumentMoniker": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Fundamentals Training\\Cplusplus-ProjectRepository\\C\u002B\u002B Games\\Battleship\\Battleship\\Utils.h",
+              "RelativeDocumentMoniker": "Battleship\\Utils.h",
+              "ToolTip": "C:\\Users\\joseb\\Desktop\\Enduring Freedom\\Fundamentals Training\\Cplusplus-ProjectRepository\\C\u002B\u002B Games\\Battleship\\Battleship\\Utils.h",
+              "RelativeToolTip": "Battleship\\Utils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-05T14:27:35.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
