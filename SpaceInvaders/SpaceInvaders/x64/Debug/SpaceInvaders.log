@@ -1,0 +1,11 @@
+﻿  Game.cpp
+C:\Users\joseb\Desktop\Enduring Freedom\Fundamentals Training\Cplusplus-ProjectRepository\C++ Games\SpaceInvaders\SpaceInvaders\Game.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Game.cpp')
+  
+sfml-graphics-s-d.lib(Font.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Font.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Image.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Image.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Shader.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Shader.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(GlContext.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(GlContext.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(WindowBase.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(WindowBase.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(InputImpl.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(InputImpl.obj)' or at ''; linking object as if no debug info
+  SpaceInvaders.vcxproj -> C:\Users\joseb\Desktop\Enduring Freedom\Fundamentals Training\Cplusplus-ProjectRepository\C++ Games\SpaceInvaders\x64\Debug\SpaceInvaders.exe
