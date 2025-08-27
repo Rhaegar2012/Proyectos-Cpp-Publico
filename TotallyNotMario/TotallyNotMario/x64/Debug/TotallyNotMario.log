@@ -1,0 +1,21 @@
+﻿  GameManager.cpp
+C:\Users\joseb\Desktop\Enduring Freedom\Fundamentals Training\Cplusplus-ProjectRepository\C++ Games\TotallyNotMario\TotallyNotMario\GameManager.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'GameManager.cpp')
+  
+C:\Users\joseb\Desktop\Enduring Freedom\Fundamentals Training\Cplusplus-ProjectRepository\C++ Games\TotallyNotMario\TotallyNotMario\EntityPhysics.h(14,26): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'GameManager.cpp')
+  
+  TotallyNotMario.cpp
+C:\Users\joseb\Desktop\Enduring Freedom\Fundamentals Training\Cplusplus-ProjectRepository\C++ Games\TotallyNotMario\TotallyNotMario\EntityPhysics.h(14,26): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'TotallyNotMario.cpp')
+  
+C:\Users\joseb\Desktop\Enduring Freedom\Fundamentals Training\Cplusplus-ProjectRepository\C++ Games\TotallyNotMario\TotallyNotMario\GameManager.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'TotallyNotMario.cpp')
+  
+  Generating Code...
+sfml-window-s-d.lib(Window.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Window.obj)' or at ''; linking object as if no debug info
+sfml-audio-s-d.lib(MiniaudioUtils.obj) : warning LNK4099: PDB '' was not found with 'sfml-audio-s-d.lib(MiniaudioUtils.obj)' or at ''; linking object as if no debug info
+sfml-audio-s-d.lib(SoundBuffer.obj) : warning LNK4099: PDB '' was not found with 'sfml-audio-s-d.lib(SoundBuffer.obj)' or at ''; linking object as if no debug info
+sfml-audio-s-d.lib(InputSoundFile.obj) : warning LNK4099: PDB '' was not found with 'sfml-audio-s-d.lib(InputSoundFile.obj)' or at ''; linking object as if no debug info
+sfml-audio-s-d.lib(SoundStream.obj) : warning LNK4099: PDB '' was not found with 'sfml-audio-s-d.lib(SoundStream.obj)' or at ''; linking object as if no debug info
+  TotallyNotMario.vcxproj -> C:\Users\joseb\Desktop\Enduring Freedom\Fundamentals Training\Cplusplus-ProjectRepository\C++ Games\TotallyNotMario\x64\Debug\TotallyNotMario.exe
